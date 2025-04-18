@@ -12,8 +12,8 @@ const Countries = ({ countries, showFiltered }) => {
       return true;
     }
   });
-  console.log(countriesResults.length);
-  console.log(countriesResults);
+  // console.log(countriesResults.length);
+  // console.log(countriesResults);
 
   let content;
 
